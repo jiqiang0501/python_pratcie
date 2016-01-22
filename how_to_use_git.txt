@@ -1,0 +1,9 @@
+git clone https://github.com/jiqiang0501/python_pratcie.git
+
+git add .
+
+git commit -m "change log"
+
+git push -u origin master
+
+
